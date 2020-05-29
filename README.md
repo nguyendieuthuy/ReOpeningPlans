@@ -1,5 +1,6 @@
 # ReOpeningPlans
 Dates of Reopenings by US States by Thuy Nguyen and Kosali Simon
+Data source of Figure 1 https://www.nber.org/papers/w27235 
 
 # Summary
 This repository contains data of reopening dates by US States. This dataset is collected by Kosali Simon and Thuy Nguyen, with assistance from Elizabeth McAvoy and Ailish Cornwell. 
